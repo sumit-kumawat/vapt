@@ -25,5 +25,5 @@ sudo apt update
 sudo apt install nmap nikto wapiti sqlmap whatweb sublist3r ruby-full build-essential patch ruby-dev zlib1g-dev liblzma-dev libffi-dev libcurl4-openssl-dev libssl-dev whois -y
 sudo gem install wpscan
 
-chmod +x vapt-scan.sh
-./vapt-scan.sh
+chmod +x intermediate.sh
+./intermediate.sh
